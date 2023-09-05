@@ -1,5 +1,5 @@
 # OctoLight
-A simple plugin that adds a button to the navigation bar for toggleing a GPIO pin on the Raspberry Pi.
+A simple plugin that adds a button to the navigation bar for toggleing a GPIO pin on the ROC-RK3328-CC (Renegade).
 
 ![WebUI interface](img/screenshoot.png)
 
@@ -13,10 +13,10 @@ or manually using this URL:
 ![Settings panel](img/settings.png)
 
 Curently, you can configure two settings:
-- `Light PIN`: The pin on the Raspberry Pi that the button controls.
-	- Default value: 13
-	- The pin number is saved in the **board layout naming** scheme (gray labels on the pinout image below).
-	- **!! IMPORTANT !!** The Raspberry Pi can only control the **GPIO** pins (orange labels on the pinout image below)
+- `Light PIN`: The pin on the ROC-RK3328-CC (Renegade) that the button controls.
+	- Default value: 12
+	- The pin number is saved in the **board layout naming** scheme (Red labels on the pinout image below).
+	- **!! IMPORTANT !!** The ROC-RK3328-CC (Renegade) can only control the **GPIO** pins (Tan labels on the pinout image below)
 	![ROC-RK3328-CC (Renegade) GPIO](img/pinout.png)
         
 - `Inverted output`: If true, the output will be inverted
