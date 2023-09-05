@@ -1,7 +1,7 @@
 # OctoLight
 A simple plugin that adds a button to the navigation bar for toggleing a GPIO pin on the ROC-RK3328-CC (Renegade).
 
-![WebUI interface](img/screenshoot.png)
+![WebUI interface](img/ksnip_20230905-170626.png)
 
 ## Setup
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
