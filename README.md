@@ -7,7 +7,7 @@ A simple plugin that adds a button to the navigation bar for toggleing a GPIO pi
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
 or manually using this URL:
 
-	https://github.com/gigibu5/OctoLight/archive/master.zip
+	[https://github.com/basskillin/OctoLight/archive/refs/heads/master.zip]
 
 ## Configuration
 ![Settings panel](img/ksnip_20230905-173056.png)
