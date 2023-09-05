@@ -17,8 +17,8 @@ Curently, you can configure two settings:
 	- Default value: 13
 	- The pin number is saved in the **board layout naming** scheme (gray labels on the pinout image below).
 	- **!! IMPORTANT !!** The Raspberry Pi can only control the **GPIO** pins (orange labels on the pinout image below)
-	![Raspberry Pi GPIO](img/rpi_gpio.png)
-
+	![ROC-RK3328-CC (Renegade) GPIO](img/pinout.png)
+        
 - `Inverted output`: If true, the output will be inverted
 	- Usage: if you have a light, that is turned off when voltage is applied to the pin (wired in negative logic), you should turn on this option, so the light isn't on when you reboot your Raspberry Pi.
 
