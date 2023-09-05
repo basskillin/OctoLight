@@ -10,7 +10,7 @@ or manually using this URL:
 	https://github.com/gigibu5/OctoLight/archive/master.zip
 
 ## Configuration
-![Settings panel](img/settings.png)
+![Settings panel](img/ksnip_20230905-173056.png)
 
 Curently, you can configure two settings:
 - `Light PIN`: The pin on the ROC-RK3328-CC (Renegade) that the button controls.
