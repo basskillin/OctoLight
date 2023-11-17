@@ -105,7 +105,7 @@ class OctoLightPlugin(
 
                 user="supprt",
                 repo="OctoLight",
-                pip="https://git.mobileitgeeks.com/support/OctoLight/archive/{target}.zip"
+                pip="https://git.mobileitgeeks.com/support/OctoLight/archive/master.zip"
             )
         )
 
