@@ -103,13 +103,13 @@ class OctoLightPlugin(
                 type="github_release",
                 current=self._plugin_version,
 
-                user="gigibu5",
+                user="supprt",
                 repo="OctoLight",
-                pip="https://github.com/gigibu5/OctoLight/archive/{target}.zip"
+                pip="https://git.mobileitgeeks.com/support/OctoLight/archive/{target}.zip"
             )
         )
 
-__plugin_pythoncompat__ = ">=2.7,<4"
+__plugin_pythoncompat__ = ">=2.6<4"
 __plugin_implementation__ = OctoLightPlugin()
 
 __plugin_hooks__ = {
