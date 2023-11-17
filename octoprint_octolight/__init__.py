@@ -109,7 +109,7 @@ class OctoLightPlugin(
             )
         )
 
-__plugin_pythoncompat__ = ">=2.6<4"
+__plugin_pythoncompat__ = ">=2.7,<4"
 __plugin_implementation__ = OctoLightPlugin()
 
 __plugin_hooks__ = {
